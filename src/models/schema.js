@@ -25,5 +25,5 @@ const resturentSchema = mongoose.Schema({
 
 
 
-module.exports = {resturentSchema, Items}
+module.exports = {Items};
 
